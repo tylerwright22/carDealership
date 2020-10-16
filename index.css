@@ -30,3 +30,7 @@ body {
 .topnav a.active {
 	background-color:darkslategray;
 }
+
+h1{
+	margin-left: 41.5%;
+}
